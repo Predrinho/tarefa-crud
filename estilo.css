@@ -1,0 +1,21 @@
+body {
+    background-image: url("test1-img.jpg");
+    padding: 25px;
+
+    
+}
+
+#test {
+    top: 10px;
+    left: 10px;
+    background-image: linear-gradient(rgb(207, 7, 7), rgb(212, 17, 115));
+   
+}
+#title {
+    color: rgb(255, 0, 255);
+}
+
+#icon {
+    color: rgba(255, 238, 0, 0.787) ; 
+}
+
